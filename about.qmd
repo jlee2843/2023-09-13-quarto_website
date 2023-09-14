@@ -3,3 +3,4 @@ title: "About"
 ---
 
 This is the site for Jenny Lee, made for Lab 2 of DSCI 521.
+Changes are made!
